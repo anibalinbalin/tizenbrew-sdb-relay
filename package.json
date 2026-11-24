@@ -1,0 +1,10 @@
+{
+  "name": "tizenbrew-sdb-relay",
+  "version": "1.0.0",
+  "description": "TCP relay for SDB access over LAN",
+  "packageType": "app",
+  "appName": "SDB Relay",
+  "appPath": "index.html",
+  "serviceFile": "service/index.js",
+  "keys": []
+}
